@@ -1,0 +1,18 @@
+{
+  "persons": [
+    {
+      "firstName": "Rod",
+      "lastName": "Alim"
+    }
+  ],
+  "skills": [
+  {
+    "name": "java",
+    "level" : 4
+  },
+  {
+    "name": "javascript",
+    "level" : 1
+  }
+  ]
+}
