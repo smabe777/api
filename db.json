@@ -2,17 +2,25 @@
   "persons": [
     {
       "firstName": "Rod",
-      "lastName": "Alim"
+      "lastName": "Alim",
+       "skills": [
+        {
+          "name": "java",
+          "level" : 4
+        },
+        {
+          "name": "javascript",
+          "level" : 1
+        }
+        ]
     }
   ],
   "skills": [
   {
-    "name": "java",
-    "level" : 4
+    "name": "java"
   },
   {
-    "name": "javascript",
-    "level" : 1
+    "name": "javascript"
   }
   ]
 }
