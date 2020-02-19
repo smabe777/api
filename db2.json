@@ -1,7 +1,7 @@
 {
-skills : [
+"skills" : [
 {
-name : java
+"name" : "java"
 }
 ]
 }
