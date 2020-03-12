@@ -19,15 +19,15 @@
   "skills": [
   {
     "name": "java",
-    "category" : "development",
+    "category" : "development"
   },
   {
     "name": "javascript",
-    "category" : "development",
+    "category" : "development"
   },
     {
       "name" : "ruby",
-       "category" : "development",
+       "category" : "development"
     }
     
   ]
