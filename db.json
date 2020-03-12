@@ -18,10 +18,17 @@
   ],
   "skills": [
   {
-    "name": "java"
+    "name": "java",
+    "category" : "development",
   },
   {
-    "name": "javascript"
-  }
+    "name": "javascript",
+    "category" : "development",
+  },
+    {
+      "name" : "ruby",
+       "category" : "development",
+    }
+    
   ]
 }
