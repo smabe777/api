@@ -1,62 +1,54 @@
 {
-  "persons": [
-    {
-      "id":1,
-      "firstName": "Rod",
-      "lastName": "Alim",
-       "skills": [
-        {
-          "name": "java",
-          "level" : 4
+    "persons": [{
+        "id": 1,
+        "firstName": "Rod",
+        "lastName": "Alim",
+        "skills": [{
+                "name": "java",
+                "level": 4
+            },
+            {
+                "name": "javascript",
+                "level": 1
+            }
+        ]
+    }],
+    "skills": [{
+            "name": "java",
+            "category": "development"
         },
         {
-          "name": "javascript",
-          "level" : 1
+            "name": "javascript",
+            "category": "development"
+        },
+        {
+            "name": "ruby",
+            "category": "development"
+        },
+        {
+            "name": "team spirit",
+            "category": "behaviour"
+        },
+        {
+            "name": "customer focus",
+            "category": "behaviour"
+        },
+        {
+            "name": "result oriented",
+            "category": "behaviour"
+        },
+        {
+            "name": "BDD methodology",
+            "category": "DevOps"
+        },
+        {
+            "name": "Capybara",
+            "category": "Test Automation"
+        },
+
+        {
+            "name": "Jira",
+            "category": "incident management"
         }
-        ]
-    }
-  ],
-  "skills": [
-  {
-    "name": "java",
-    "category" : "development"
-  },
-  {
-    "name": "javascript",
-    "category" : "development"
-  },
-    {
-      "name" : "ruby",
-       "category" : "development"
-    }
-    ,
-    {
-      "name" : "team spirit",
-       "category" : "behaviour"
-    }
-     ,
-    {
-      "name" : "customer focus",
-       "category" : "behaviour"
-    },
-    {
-      "name" : "result oriented",
-       "category" : "behaviour"
-    }
-     ,
-    {
-      "name" : "BDD methodology",
-       "category" : "DevOps"
-    }
-     ,
-    {
-      "name" : "Capybara",
-       "category" : "Test Automation"
-    },
-    
-    {
-      "name" : "Jira",
-       "category" : "incident management"
-    }
-  ]
+    ]
 }
